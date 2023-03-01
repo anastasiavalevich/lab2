@@ -2,7 +2,7 @@
 Необходимо написать простое приложение с использованием контейнеризации
 # Run
 
-git clone https://github.com/anastasiavalevich/lab2
+git clone https://github.com/anastasiavalevich/lab2.git
 
 docker build . -t laba2
 
