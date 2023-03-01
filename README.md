@@ -6,4 +6,4 @@ git clone https://github.com/anastasiavalevich/lab2
 
 docker build . -t laba2
 
-docker run -ti -p 80:80 isis2
+docker run -ti -p 80:80 laba2
